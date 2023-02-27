@@ -1,0 +1,55 @@
+#navigation{
+
+    word-spacing: 100px;
+    text-align: center;
+    background-color: rgb(18, 184, 82);
+    font-size: 50px;
+    font-family:monospace;
+    color: white;
+    
+}
+
+
+body{
+
+    background-image:url(img/back1.jpeg);
+    
+    
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 150%;
+}
+
+
+#name 
+{
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(0, 157, 24);
+
+}
+#college
+{
+
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(235, 15, 22);
+
+}
+#para
+{
+    font-size: 15px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(254, 251, 251);
+}
+#head1
+{
+    font-size: 50px;
+    color: rgb(254, 251, 251);
+}
+
+a:hover
+{
+    color: aliceblue;
+}
